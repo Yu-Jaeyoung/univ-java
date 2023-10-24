@@ -1,10 +1,10 @@
 package src.chap04.student;
 
 public class Student {
-    String studentNumber;
-    String department;
-    String name;
-    String phoneNumber;
+    private String studentNumber;
+    private String department;
+    private String name;
+    private String phoneNumber;
 
 
     public Student(String studentNumber, String department, String name, String phoneNumber) {
