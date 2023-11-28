@@ -1,4 +1,4 @@
-package src.chap07.abstractclass;
+package src.chap07.abstractclass.tire;
 
 public class KumhoTire extends Tire{
     @Override
